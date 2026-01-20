@@ -468,7 +468,7 @@ flutter test integration_test/
 - A/B testing for new features
 
 ## License
-[Your License Here]
+Amul Tyagi
 
 ## Contact
 [Your Contact Information]
